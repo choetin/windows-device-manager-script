@@ -35,7 +35,7 @@ An interactive PowerShell script for managing Windows devices with a user-friend
 1. Open PowerShell **as Administrator**
 2. Navigate to the script directory:
    ```powershell
-   cd Path/To/YourScript
+   cd C:\Path\To\YourScript
    ```
 3. Execute the script:
    ```powershell
