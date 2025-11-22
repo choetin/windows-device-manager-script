@@ -35,7 +35,7 @@
 1. **以管理员身份**打开 PowerShell
 2. 导航到脚本目录：
    ```powershell
-   cd d:\repos\powershell
+   cd Path/To/YourScript
    ```
 3. 执行脚本：
    ```powershell
